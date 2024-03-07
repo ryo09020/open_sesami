@@ -1,0 +1,3 @@
+openline.pyはスペース押してる間は音がテキストになる。
+sesami.pyはdeepspechを使って声紋認証を実装し油とした残骸
+voiceauth.pyは声紋が一致したら何かしらのアクション、何かが出力されるみたいなのを実装してopenline.pyと繋げていきたい
